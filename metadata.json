@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Edison Qatar Schools - Digital Procurement CRM",
+  "description": "A futuristic, multi-tenant procurement management system featuring role-based workflows, automated approval matrices, integrated SOR chat, and branch-level isolation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
